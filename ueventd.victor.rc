@@ -1,0 +1,6 @@
+/dev/oncrpc/*             0660   root       qcom_oncrpc
+# 20130403 yeongcheol1.kim@lge.com: LGE_VT [START]
+# LGE_VT START
+/dev/smd11      0660   radio     radio
+# LGE_VT END
+# 20130403 yeongcheol1.kim@lge.com: LGE_VT [END]
